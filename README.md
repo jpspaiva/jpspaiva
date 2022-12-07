@@ -2,12 +2,6 @@
 
 - Cursando Ciências e Tecnologia na UFRN
 
-<div>
-  <a href="https://github.com/jpspaiva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpspaiva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpspaiva&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  <br>
 <div style="display: inline_block">
   <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
