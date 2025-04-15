@@ -1,6 +1,6 @@
 ### Hi there, my name is João Paulo.
 
-- Cursando Ciências e Tecnologia na UFRN
+- Graduando em Tecnologia da Informação na UFRN.
 
 <div style="display: inline_block">
   <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
